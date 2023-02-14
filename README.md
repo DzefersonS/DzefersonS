@@ -1,4 +1,4 @@
 ### Hi there 👋 I'm Gabrielis Vaclovas Zabitis.
-- 🔭 I’m currently working on the FakeKEA project. Preparing for exams.
-- 🌱 I’m currently learning software engineering.
+- 🔭 Currently focusing on java.
+- 🌱 I’m studying Software Engineering at Vilnius University.
 - 📫 How to reach me: Through LinkedIn.
